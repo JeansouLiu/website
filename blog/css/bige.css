@@ -1,0 +1,24 @@
+@font-face {
+  font-family: 'bige';
+  font-style: normal;
+  font-weight: 100;
+  src: url(https://cdn.jsdelivr.net/gh/JeansouLiu/website@main/blog/fonts/bige01.ttf) format('ttf');
+}
+@font-face {
+  font-family: 'bige';
+  font-style: normal;
+  font-weight: 300;
+  src: url(https://cdn.jsdelivr.net/gh/JeansouLiu/website@main/blog/fonts/bige02.ttf) format('ttf');
+}
+@font-face {
+  font-family: 'bige';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://cdn.jsdelivr.net/gh/JeansouLiu/website@main/blog/fonts/bige03.ttf) format('ttf');
+}
+@font-face {
+  font-family: 'bige';
+  font-style: normal;
+  font-weight: 700;
+  src: url(https://cdn.jsdelivr.net/gh/JeansouLiu/website@main/blog/fonts/bige04.ttf) format('ttf');
+}
